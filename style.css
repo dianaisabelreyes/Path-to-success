@@ -85,25 +85,48 @@ body {
     color: white;
 }
 
-
+header {
+    background-color: #484FB7;
+    padding: 35px 0;
+    text-align: center;
+}
 h1 {
    font-size: 3em;
    font-family: Kavoon, sans-serif;
-   background-color: #484FB7;
    color: white;
 }
-h1 p {
-    background-color: #484FB7;
+header p {
+    color: white;
+    font-style: italic;
+    font-size: small;
 }
 
-Nav h2{
-    1.5em
+.Menu-container h2{
+   font-size: 1.5em;
+   text-align: center;
+   font-style: oblique;
+   text-transform: uppercase;
 }
 
-H2{
+section h2{
    font-size: 2em;
+   font-family: Kavoon, sans-serif;
+  
 }
 
+.Menu-container {
+    color: #1E1E1E;
+    padding: 7px;
+    text-align: center;
+}
+nav {
+    background-color: #E9BB57;
+    text-align: center;
+}
+.
+h2 {
+    font-size: 2em;
+}
 H3{
     1.5em;
 }
