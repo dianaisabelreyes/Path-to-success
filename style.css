@@ -106,6 +106,7 @@ header p {
    text-align: center;
    font-style: oblique;
    text-transform: uppercase;
+   margin: 0 0 10px 0;
 }
 
 section h2{
@@ -116,23 +117,45 @@ section h2{
 
 .Menu-container {
     color: #1E1E1E;
-    padding: 7px;
+    padding-bottom: 40px;
     text-align: center;
-}
-nav {
     background-color: #E9BB57;
+}
+.my-button {
     text-align: center;
+    background-color: #ffffff;
+    padding: 12px 20px;
+    color: #484FB7;
+    border: none;
+    font-weight: bold;
+    text-decoration: none;
+    margin: 8px;
+    min-width: 180px;
+    display: inline-block;
+
 }
-.
-h2 {
+ 
+    
+section h2 {
+    font-family: Kavoon, sans-serif;
     font-size: 2em;
+    color:#ffffff;
+    background-color: #484FB7;
+
 }
-H3{
-    1.5em;
+section {
+    background-color: #484FB7;
+    padding: 40px 22px;
+
+}
+h3{ 
+    color: #E9BB57;
+   font-size: 1.5em;
 }
 
-H4{
-    1.15em;
+h4 p {
+  font-size: 1.15em;
+  background-color: #ffffff;
 
 }
 
